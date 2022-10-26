@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TyLT2</string>
+    <string name="controller">Controller</string>
+    <string name="this_fantastic_reliable_wireless_technology_has_a_long_transmission_distance_it_has_comparatively_much_better_frequency_than_ism_bands_it_also_has_a_bidirectional_transmission_allows_system_co_existence_and_has_substantial_anti_interference">This fantastic, reliable wireless technology has a long transmission distance. It has comparatively much better frequency than ISM bands. It also has a bidirectional transmission, allows system co-existence, and has substantial anti-interference.</string>
 </resources>
